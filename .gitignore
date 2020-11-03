@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+custom_pattern_generated.txt
