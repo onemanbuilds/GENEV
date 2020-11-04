@@ -1,5 +1,11 @@
 # CustomizableGen
  This is one of my old tools. With this tool you can generate characters by the given custom pattern or via regex.
+
+# Installation
+```
+pip3 install -r requirements.txt
+``` 
+
 # Tool
 ![](https://i.ibb.co/M7wdXfM/example.png)
 
