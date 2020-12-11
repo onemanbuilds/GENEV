@@ -16,7 +16,7 @@ pip3 install -r requirements.txt
 ![](https://i.ibb.co/7ScWdMR/customizable-gen-regex-generation.png)
 
 # Functions
- **1. Menu:**<br/>
+ **1. Menu:**
   - Pattern Generation Option<br/>
   - Regex Generation Option<br/>
  **2. Pattern Generation:**
