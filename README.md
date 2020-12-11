@@ -16,16 +16,16 @@ pip3 install -r requirements.txt
 ![](https://i.ibb.co/7ScWdMR/customizable-gen-regex-generation.png)
 
 # Functions
- Menu:<br/>
+ **Menu:**<br/>
   - Pattern Generation Option<br/>
   - Regex Generation Option<br/>
- Pattern Generation:
+ **Pattern Generation:**
   - Faster mode.<br/>
   - Custom thread number with faster mode.<br/>
   - Accurate mode.<br/>
   - Custom amount.<br/>
   - Custom pattern generation.<br/>
- Regex Generation:
+ **Regex Generation:**
   - Faster mode<br/>
   - Custom thread number with faster mode.<br/>
   - Accurate mode.<br/>
