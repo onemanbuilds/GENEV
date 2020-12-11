@@ -6,11 +6,32 @@
 pip3 install -r requirements.txt
 ``` 
 
-# Tool
-![](https://i.ibb.co/M7wdXfM/example.png)
+# Menu
+![](https://i.ibb.co/KKWLGxL/customizable-gen-new.png)
 
-# Example
-![](https://i.ibb.co/VTQHFtf/tool.png)
+# Pattern Generation
+![](https://i.ibb.co/q7JmZxQ/customizable-gen-pattern-generation.png)
+
+# Regex Generation
+![](https://i.ibb.co/7ScWdMR/customizable-gen-regex-generation.png)
+
+# Functions
+ Menu:<br/>
+  - Pattern Generation Option<br/>
+  - Regex Generation Option<br/>
+ 
+ Pattern Generation:<br/>
+  - Faster mode.<br/>
+  - Custom thread number with faster mode.<br/>
+  - Accurate mode.<br/>
+  - Custom amount.<br/>
+  - Custom pattern generation.<br/>
+ Regex Generation:<br/>
+  - Faster mode<br/>
+  - Custom thread number with faster mode.<br/>
+  - Accurate mode.<br/>
+  - Custom amount.<br/>
+  - Custom regex pattern generation.
 
 # Legal
  The software designed to perform website security testing.<br/>
