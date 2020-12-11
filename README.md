@@ -18,4 +18,3 @@ pip3 install -r requirements.txt
  I am not accountable for anything you get into.<br/>
  I am not accountable for any of your actions.<br/>
  This is 100% educational, please do not misuse this tool.
- 
