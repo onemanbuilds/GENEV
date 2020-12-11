@@ -18,9 +18,8 @@ pip3 install -r requirements.txt
 # Functions
  Menu:<br/>
   - Pattern Generation Option<br/>
-  - Regex Generation Option<br/>
- 
- Pattern Generation:<br/>
+  - Regex Generation Option
+ Pattern Generation:
   - Faster mode.<br/>
   - Custom thread number with faster mode.<br/>
   - Accurate mode.<br/>
