@@ -1,5 +1,5 @@
 # CustomizableGen
- This is one of my old tools. With this tool you can generate characters by the given custom pattern or via regex.
+ Generate everything you want with custom pattern, or regex.
 
 # Installation
 ```
