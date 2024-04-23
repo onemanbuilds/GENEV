@@ -1,2 +1,2 @@
+pystyle==2.9
 xeger==0.3.5
-colorama==0.4.4

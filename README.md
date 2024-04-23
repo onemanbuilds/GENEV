@@ -2,18 +2,28 @@
  Generate everything you want with custom pattern, or regex.
 
 # Installation
-```
-pip3 install -r requirements.txt
-``` 
+ - Make sure you have Python 3.11.8 or higher.<br/>
+ - First method open terminal / command prompt.
+ ```
+ pip install -r requirements.txt and then run the command python main.py
+ ```
+ - Second method, (only windows) run 
+ ```
+ requirements_install.bat
+ ```
+ ```
+ run_script.bat
+ ```
+ - Third method, download the compiled versions from the releases tab on the right side.
 
 # Menu
-![](https://i.ibb.co/KKWLGxL/customizable-gen-new.png)
+![](https://i.ibb.co/VTDj03c/Windows-Terminal-g-ATUXB6-Hz-A.png)
 
 # Pattern Generation
-![](https://i.ibb.co/q7JmZxQ/customizable-gen-pattern-generation.png)
+![](https://i.ibb.co/Ks9sxpx/Windows-Terminal-l-Al-Yfhvufq.png)
 
 # Regex Generation
-![](https://i.ibb.co/7ScWdMR/customizable-gen-regex-generation.png)
+![](https://i.ibb.co/JvYvSZH/Windows-Terminal-tr947vo-QZz.png)
 
 # Functions
  **Menu:**
@@ -21,15 +31,14 @@ pip3 install -r requirements.txt
   - Regex Generation Option
   
  **Pattern Generation:**
-  - Faster mode.<br/>
-  - Custom thread number with faster mode.<br/>
+  - Custom thread number<br/>
   - Accurate mode.<br/>
   - Custom amount.<br/>
   - Custom pattern generation.<br/>
   
  **Regex Generation:**
   - Faster mode<br/>
-  - Custom thread number with faster mode.<br/>
+  - Custom thread number<br/>
   - Accurate mode.<br/>
   - Custom amount.<br/>
   - Custom regex pattern generation.
